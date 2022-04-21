@@ -2,6 +2,7 @@
 Project made for my programming class in HSE university, written in C language. 
 
 The calculator can parse expressions like: 
+
 exp(-jPIalphalen/v0) 
 alpha = sqrt(PIlen/(s1+s2)) 
 s1 = because (real(S11) * real(S22)) 
