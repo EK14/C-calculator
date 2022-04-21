@@ -20,21 +20,37 @@ S11 = -0.01-0.92j
 S22 = 0.0001+0.997j  
 
 Expressions can contain constants: 
+
 PI 
+
 e 
+
 j - imaginary unit  
 
 Functions that can be in an expression: 
+
 cos 
+
 sin 
+
 tg 
+
 log 
+
 ln 
+
 sqrt 
+
 pow 
+
 abs 
+
 exp 
+
 real 
+
 image 
+
 mag 
+
 phase
