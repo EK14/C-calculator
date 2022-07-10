@@ -1,5 +1,5 @@
 # C-calculator
-Project made for my programming class in HSE university, written in C language. 
+Project was made for my programming class in HSE university, written in C language. 
 
 The calculator can parse expressions like: 
 
